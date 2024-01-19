@@ -26,3 +26,7 @@ yarn-error.log*
 .vscode
 .idea
 
+# Mongo DB
+mongo-db-data
+
+
